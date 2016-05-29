@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["Mika Attila <radiantstatue@gmail.com>"]
 links = "openmpt"
 build = "build.rs"
-
-[dependencies]
+license = "BSD-3-Clause"
+repository = "https://github.com/crumblingstatue/rust-openmpt-sys"
+description = "Raw bindings for libopenmpt"
+keywords = ["music", "mod", "module"]
