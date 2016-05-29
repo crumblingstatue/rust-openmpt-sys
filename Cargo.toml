@@ -1,5 +1,5 @@
 [package]
-name = "libopenmpt-sys"
+name = "openmpt-sys"
 version = "0.1.0"
 authors = ["Mika Attila <radiantstatue@gmail.com>"]
 links = "openmpt"
