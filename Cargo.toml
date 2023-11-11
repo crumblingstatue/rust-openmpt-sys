@@ -9,3 +9,6 @@ repository = "https://github.com/crumblingstatue/rust-openmpt-sys"
 description = "Raw bindings for libopenmpt"
 keywords = ["music", "mod", "module"]
 edition = "2021"
+
+[dev-dependencies]
+cpal = "0.15"
